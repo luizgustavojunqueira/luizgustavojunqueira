@@ -9,4 +9,4 @@
 
 [![PacMan111's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pacman111&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[!Snake](https://github.com/PacMan111/PacMan111/blob/output/github-contribution-grid-snake.gif)
+![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/PacMan111/PacMan111/blob/output/github-contribution-grid-snake.gif))
