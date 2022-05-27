@@ -12,4 +12,9 @@
 ![snake gif](https://github.com/PacMan111/PacMan111/blob/output/github-contribution-grid-snake.gif))
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
