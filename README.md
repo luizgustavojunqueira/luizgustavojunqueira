@@ -12,8 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SQL     2 hrs 16 mins   █████████████████████████   99.79 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
