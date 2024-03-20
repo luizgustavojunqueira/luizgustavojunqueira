@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   28 mins         ████████████████████████░   96.46 %
+Batchfile    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
