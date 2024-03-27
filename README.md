@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   28 mins         ████████████████████████░   96.46 %
-Batchfile    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
