@@ -1,11 +1,10 @@
 # Hello 👋
 
 I am an undergraduate student in Computer Science - Federal University of Mato Grosso do Sul.
-<br>
+
 I am currently a volunteer member of the competitive robotics team of the Faculty of Computing at UFMS, called AraraBots, where I work on the design and development of an autonomous drone.
-<br>
+
 I am also working on a WebGIS project at the Software Engineering Laboratory (LEDES) as a developer.
-<br>
 
 ## [Portfólio](https://portfolio-luizgustavojunqueiras-projects.vercel.app)
 
