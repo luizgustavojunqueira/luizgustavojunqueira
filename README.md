@@ -22,7 +22,7 @@ A web application for managing qualitative and quantitative urban tree inventori
 ### Hard Skills
 
 #### 🌐 Frontend Development
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,7 +31,7 @@ A web application for managing qualitative and quantitative urban tree inventori
 </div>
 
 #### ⚙️ Backend Development
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img align="center" alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -41,7 +41,7 @@ A web application for managing qualitative and quantitative urban tree inventori
 </div>
 
 #### 🤖 Automation & IoT
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -52,7 +52,7 @@ A web application for managing qualitative and quantitative urban tree inventori
 </div>
 
 #### 🛠️ DevOps & Tools
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -61,7 +61,7 @@ A web application for managing qualitative and quantitative urban tree inventori
 </div>
 
 #### 🐧 Linux & Open Source
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img align="center" alt="foss" src="https://img.shields.io/badge/FOSS-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
