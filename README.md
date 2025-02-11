@@ -66,6 +66,7 @@ A web application for managing qualitative and quantitative urban tree inventori
   <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img align="center" alt="foss" src="https://img.shields.io/badge/FOSS-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </div>
+
 ### Soft Skills
 
 - Proficiency in Software Engineering (Agile Methodologies, Project Management, Software Architecture, etc.)
