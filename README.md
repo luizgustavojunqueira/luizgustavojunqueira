@@ -2,24 +2,25 @@
 
 I am an undergraduate student in Computer Science at the Federal University of Mato Grosso do Sul, passionate about software development, automation, and robotics.
 
-## Ongoing Projects
+## 🚀 Ongoing Projects
 
-### ARBO+
+### 🌳 ARBO+
 A web application for managing qualitative and quantitative urban tree inventories. As the sole developer, I handle the entire application lifecycle, including front-end, back-end, database, and infrastructure. The app features project and tree registration, user management, CSV export, and consolidated reporting.  
 **Technologies:** VueJS, CakePHP, PostgreSQL, Docker, REST API, and Git.
 
 ## Previous Experiences
 
-- **AraraBots**  
+- 🤖 **AraraBots**  
   Volunteered with the competitive robotics team at UFMS, contributing to the design and development of an autonomous drone for RoboCup.
   
-- **EcoGis**  
+- 🌳 **EcoGis**  
   Developed back-end software for processing and generating geospatial statistics on forest fires at the Software Engineering Laboratory (LEDES).
 
-## [Portfolio](https://portfolio-luizgustavojunqueiras-projects.vercel.app)
+## 🌐 [Portfólio](https://portfolio-luizgustavojunqueiras-projects.vercel.app)
 
-## Skills
-### Hard Skills
+## 🛠️ Skills  
+
+### ⚙️ Hard Skills  
 
 #### 🌐 Frontend Development
 <div style="display: inline_block">
@@ -67,15 +68,22 @@ A web application for managing qualitative and quantitative urban tree inventori
   <img align="center" alt="foss" src="https://img.shields.io/badge/FOSS-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </div>
 
-### Soft Skills
+## 📚 Education  
+- 🎓 BSc Computer Science @ UFMS (Expected 2025)  
+- 🏆 Technical in Informatics @ IFMS (Graduated 2021)  
 
-- Proficiency in Software Engineering (Agile Methodologies, Project Management, Software Architecture, etc.)
-- Organization and clear communication
-- Eagerness to learn and explore new technologies
-- Passion for innovation and technology
+## 📞 Contacts  
+<a href = "mailto:luizgustavossj@gmail.com"><img src="https://img.shields.io/badge/-📧 Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "mailto:luiz.junqueira@ufms.com"><img src="https://img.shields.io/badge/-📚 Academic Mail-0055CC?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/luiz-gustavo-sabadim-spolon-junqueira-769333208/"><img src="https://img.shields.io/badge/-💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/luiz.gustavoo1/"><img src="https://img.shields.io/badge/-📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-## Contacts
-<a href="mailto:luizgustavossj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="mailto:luiz.junqueira@ufms.com"><img src="https://img.shields.io/badge/-Academic%20Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luiz-gustavo-sabadim-spolon-junqueira-769333208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/luiz.gustavoo1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+## 📚 Education  
+- 🎓 BSc Computer Science @ UFMS (Expected 2025)  
+- 🏆 Technical in Informatics @ IFMS (Graduated 2021)  
+
+## 📞 Contacts  
+<a href = "mailto:luizgustavossj@gmail.com"><img src="https://img.shields.io/badge/-📧 Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "mailto:luiz.junqueira@ufms.com"><img src="https://img.shields.io/badge/-📚 Academic Mail-0055CC?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/luiz-gustavo-sabadim-spolon-junqueira-769333208/"><img src="https://img.shields.io/badge/-💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/luiz.gustavoo1/"><img src="https://img.shields.io/badge/-📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
