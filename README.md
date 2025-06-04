@@ -13,7 +13,7 @@ I am an undergraduate student in Computer Science at the Federal University of M
 - 🌳 **ARBO+**
   A web application for managing qualitative and quantitative urban tree inventories. As the sole developer, I handled the entire application lifecycle, including front-end, back-end, database, and     infrastructure. The app features project and tree registration, user management, CSV export, and consolidated reporting.  
 
-## 🌐 [Portfólio](https://portfolio-luizgustavojunqueiras-projects.vercel.app)
+## 🌐 [Portfólio](https://portfolio.luizgustavojunqueira.com)
 
 ## 🛠️ Skills  
 
