@@ -2,19 +2,16 @@
 
 I am an undergraduate student in Computer Science at the Federal University of Mato Grosso do Sul, passionate about software development, automation, and robotics.
 
-## 🚀 Ongoing Projects
-
-### 🌳 ARBO+
-A web application for managing qualitative and quantitative urban tree inventories. As the sole developer, I handle the entire application lifecycle, including front-end, back-end, database, and infrastructure. The app features project and tree registration, user management, CSV export, and consolidated reporting.  
-**Technologies:** VueJS, CakePHP, PostgreSQL, Docker, REST API, and Git.
-
-## Previous Experiences
+## Academic Experiences
 
 - 🤖 **AraraBots**  
   Volunteered with the competitive robotics team at UFMS, contributing to the design and development of an autonomous drone for RoboCup.
   
 - 🌳 **EcoGis**  
   Developed back-end software for processing and generating geospatial statistics on forest fires at the Software Engineering Laboratory (LEDES).
+
+- 🌳 **ARBO+**
+  A web application for managing qualitative and quantitative urban tree inventories. As the sole developer, I handled the entire application lifecycle, including front-end, back-end, database, and     infrastructure. The app features project and tree registration, user management, CSV export, and consolidated reporting.  
 
 ## 🌐 [Portfólio](https://portfolio-luizgustavojunqueiras-projects.vercel.app)
 
