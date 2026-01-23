@@ -1,19 +1,11 @@
 # Hello 👋
 
-I am an undergraduate student in Computer Science at the Federal University of Mato Grosso do Sul, passionate about software development, automation, and robotics.
+I am a Computer Scientist graduated from the Federal University of Mato Grosso do Sul (UFMS), with a strong background in software development, automation, and robotics. I have experience building complete systems end-to-end, working across front-end, back-end, databases, and infrastructure, with a focus on clean architecture, maintainability, and real-world problem solving.
 
-## Academic Experiences
-
-- 🤖 **AraraBots**  
-  Volunteered with the competitive robotics team at UFMS, contributing to the design and development of an autonomous drone for RoboCup.
-  
-- 🌳 **EcoGis**  
-  Developed back-end software for processing and generating geospatial statistics on forest fires at the Software Engineering Laboratory (LEDES).
-
-- 🌳 **ARBO+**
-  A web application for managing qualitative and quantitative urban tree inventories. As the sole developer, I handled the entire application lifecycle, including front-end, back-end, database, and     infrastructure. The app features project and tree registration, user management, CSV export, and consolidated reporting.  
+My work spans web applications, geospatial data processing, automation systems, and embedded/robotic solutions. I am particularly interested in scalable systems, DevOps practices, IoT, and applied engineering solutions that bridge software and hardware.
 
 ## 🌐 [Portfólio](https://portfolio.luizgustavojunqueira.com)
+## ✍️ [Blog](https://blog.luizgustavojunqueira.com)
 
 ## 🛠️ Skills  
 
